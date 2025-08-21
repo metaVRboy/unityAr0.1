@@ -1,14 +1,32 @@
-# Unity temp and library files
+# Unity standard ignores
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
 [Bb]uilds/
 [Ll]ogs/
+[Mm]emoryCaptures/
+.vscode/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
 
-# Xcode temp files
-*.xcworkspace
-*.xcuserdata
-*.mode1v3
-*.pbxuser
-*.perspectivev3
+# iOS build ignores
+iOSBuild/Build/*
+iOSBuild/*.xcworkspace
+iOSBuild/*.xcodeproj/project.xcworkspace/
+iOSBuild/*.xcodeproj/xcuserdata/
+iOSBuild/*.xcodeproj/DerivedData/
+iOSBuild/*.xcodeproj/build/
+iOSBuild/*.xcuserstate
+
+# OS generated files
+.DS_Store
+Thumbs.db
