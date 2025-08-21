@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unity Projects\\SonayARMobileLTS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{500A7464-F7F2-92A6-CC59-312CC8A625C4}|Assembly-CSharp.csproj|d:\\unity projects\\sonayarmobilelts\\assets\\arobjectplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{500A7464-F7F2-92A6-CC59-312CC8A625C4}|Assembly-CSharp.csproj|solutionrelative:assets\\arobjectplacer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARObjectPlacer.cs",
+              "DocumentMoniker": "D:\\Unity Projects\\SonayARMobileLTS\\Assets\\ARObjectPlacer.cs",
+              "RelativeDocumentMoniker": "Assets\\ARObjectPlacer.cs",
+              "ToolTip": "D:\\Unity Projects\\SonayARMobileLTS\\Assets\\ARObjectPlacer.cs",
+              "RelativeToolTip": "Assets\\ARObjectPlacer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-21T08:48:29.825Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
