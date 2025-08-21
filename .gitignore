@@ -1,4 +1,4 @@
-# Unity standard ignores
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -6,27 +6,13 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-.vscode/
-*.csproj
-*.unityproj
-*.sln
-*.user
-*.userprefs
-*.pidb
-*.booproj
-*.svd
-*.pdb
-*.mdb
 
-# iOS build ignores
-iOSBuild/Build/*
-iOSBuild/*.xcworkspace
-iOSBuild/*.xcodeproj/project.xcworkspace/
-iOSBuild/*.xcodeproj/xcuserdata/
-iOSBuild/*.xcodeproj/DerivedData/
-iOSBuild/*.xcodeproj/build/
-iOSBuild/*.xcuserstate
-
-# OS generated files
-.DS_Store
-Thumbs.db
+# Xcode
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+xcuserdata/
+DerivedData/
+*.xcworkspace/contents.xcworkspacedata
