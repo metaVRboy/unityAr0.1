@@ -1,0 +1,4 @@
+iOSBuild/Libraries/*.a filter=lfs diff=lfs merge=lfs -text
+iOSBuild/Libraries/*.framework filter=lfs diff=lfs merge=lfs -text
+Builds/Libraries/*.a filter=lfs diff=lfs merge=lfs -text
+Builds/Libraries/*.framework filter=lfs diff=lfs merge=lfs -text
